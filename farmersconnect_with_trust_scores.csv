@@ -1,0 +1,101 @@
+Buyer ID,Farmer ID,Transaction Type,Feedback,Rating,Success,Transaction ID,buyer_id,farmer_id,crop,quantity_kg,price_per_kg,total_price,payment_method,delivery_method,contract,Success_Rate,Sentiment_Score,Normalized_Rating,Trust_Score
+107,7,1,Timely delivery and satisfactory quality.,4,1,1,B007,F004,Vegetables,374,2.73,1021.02,Debit/credit cards,Pickup nearby,1,0.5714285714285714,0.5,0.8,0.6114285714285714
+108,3,2,Timely delivery and satisfactory quality.,4,1,2,B004,F002,Tomatoes,60,1.34,80.4,Transfer,Pickup nearby,1,0.90625,0.5,0.8,0.711875
+103,10,3,The produce was fresh and well-packaged.,5,1,3,B008,F001,Tomatoes,447,1.44,643.68,Debit/credit cards,Pickup nearby,1,0.7058823529411765,0.65,1.0,0.771764705882353
+101,3,1,"Produce was spoiled, very disappointed.",2,1,4,B005,F005,Yam,273,0.73,199.29,Transfer,Direct delivery,1,0.90625,0.0,0.4,0.391875
+103,1,2,"Good quality, on-time delivery.",5,1,5,B007,F003,Cassava,292,1.95,569.4,Cash,Direct delivery,0,0.5277777777777778,0.75,1.0,0.7583333333333334
+106,8,3,"Poor quality, and late delivery.",1,1,6,B010,F004,Beans,36,0.59,21.24,Transfer,Direct delivery,0,0.6111111111111112,0.35,0.2,0.3833333333333333
+105,5,1,Great quality produce and timely delivery.,5,1,7,B003,F003,Rice,235,1.66,390.1,Transfer,Direct delivery,1,0.8461538461538461,1.0,1.0,0.9538461538461538
+105,3,2,Excellent service and good quality.,5,1,8,B007,F003,Cassava,286,1.86,531.96,Transfer,Pickup nearby,1,0.90625,1.0,1.0,0.9718749999999999
+105,4,3,Mediocre quality.,3,1,9,B008,F001,Yam,295,1.22,359.9,Transfer,Pickup nearby,0,0.8214285714285714,0.25,0.6,0.5264285714285715
+106,6,1,Timely delivery and satisfactory quality.,4,1,10,B005,F003,Yam,106,1.98,209.88,Transfer,Pickup nearby,1,0.5,0.5,0.8,0.59
+106,1,2,Best produce I've ever bought.,5,1,11,B004,F005,Cassava,293,0.58,169.94,Debit/credit cards,Direct delivery,0,0.5277777777777778,1.0,1.0,0.8583333333333333
+106,4,3,Timely delivery and satisfactory quality.,5,1,12,B008,F003,Yam,376,0.59,221.84,Transfer,Direct delivery,0,0.8214285714285714,0.5,1.0,0.7464285714285714
+105,3,1,"Delivery was delayed, but quality was good.",4,1,13,B008,F001,Cassava,457,2.56,1169.92,Transfer,Pickup nearby,0,0.90625,0.75,0.8,0.811875
+104,3,2,"Produce was spoiled, very disappointed.",1,1,14,B003,F005,Maize,490,1.4,686.0,Cash,Pickup nearby,0,0.90625,0.0,0.2,0.331875
+107,6,3,Great quality produce and timely delivery.,5,1,15,B006,F002,Cassava,462,0.82,378.84,Transfer,Direct delivery,0,0.5,1.0,1.0,0.85
+102,7,1,Timely delivery and satisfactory quality.,5,1,16,B005,F003,Vegetables,326,1.81,590.0600000000001,Cash,Direct delivery,1,0.5714285714285714,0.5,1.0,0.6714285714285714
+103,5,2,Great value for money.,4,1,17,B002,F001,Cassava,313,2.42,757.4599999999999,Debit/credit cards,Pickup nearby,0,0.8461538461538461,1.0,0.8,0.8938461538461538
+105,5,3,"Average quality, but delivery was quick.",4,1,18,B008,F002,Yam,156,1.04,162.24,Transfer,Pickup nearby,1,0.8461538461538461,0.55,0.8,0.7138461538461538
+103,5,1,Mediocre quality.,3,1,19,B006,F002,Vegetables,13,2.06,26.78,Cash,Direct delivery,1,0.8461538461538461,0.25,0.6,0.5338461538461539
+108,4,2,"Fantastic experience, will buy again.",5,1,20,B002,F004,Yam,44,0.71,31.24,Cash,Pickup nearby,0,0.8214285714285714,0.65,1.0,0.8064285714285715
+108,10,3,Quality exceeded my expectations.,5,1,21,B005,F005,Tomatoes,201,0.63,126.63,Debit/credit cards,Pickup nearby,0,0.7058823529411765,0.5,1.0,0.711764705882353
+103,2,1,The produce was fresh and well-packaged.,5,1,22,B001,F003,Tomatoes,58,1.83,106.14,Transfer,Pickup nearby,1,0.6470588235294118,0.65,1.0,0.7541176470588236
+108,8,2,"Produce was spoiled, very disappointed.",2,1,23,B010,F001,Vegetables,26,1.85,48.1,Transfer,Direct delivery,0,0.6111111111111112,0.0,0.4,0.30333333333333334
+104,7,3,Timely delivery and satisfactory quality.,4,1,24,B006,F004,Maize,181,2.09,378.29,Cash,Direct delivery,0,0.5714285714285714,0.5,0.8,0.6114285714285714
+110,1,1,Quick response and good service.,4,1,25,B009,F005,Tomatoes,229,2.32,531.28,Transfer,Direct delivery,1,0.5277777777777778,0.75,0.8,0.6983333333333334
+103,8,2,"Service was below average, not recommended.",1,1,26,B001,F004,Cassava,167,2.94,490.98,Cash,Direct delivery,1,0.6111111111111112,0.45,0.2,0.42333333333333334
+108,4,3,Excellent service and good quality.,5,1,27,B010,F005,Yam,486,1.79,869.94,Transfer,Direct delivery,0,0.8214285714285714,1.0,1.0,0.9464285714285714
+104,8,1,Great value for money.,4,1,28,B003,F005,Tomatoes,55,1.31,72.05,Cash,Direct delivery,1,0.6111111111111112,1.0,0.8,0.8233333333333334
+103,4,2,"Average quality, but delivery was quick.",3,1,29,B007,F003,Tomatoes,382,2.49,951.18,Transfer,Direct delivery,0,0.8214285714285714,0.55,0.6,0.6464285714285715
+109,10,3,"Service was below average, not recommended.",1,1,30,B004,F005,Maize,15,1.18,17.7,Debit/credit cards,Pickup nearby,0,0.7058823529411765,0.45,0.2,0.45176470588235296
+104,7,1,Quality exceeded my expectations.,5,1,31,B009,F004,Vegetables,108,1.6,172.8,Transfer,Pickup nearby,0,0.5714285714285714,0.5,1.0,0.6714285714285714
+105,9,2,"Did not deliver the products, very disappointed.",1,0,32,B003,F005,Vegetables,389,0.7,272.29999999999995,Transfer,Pickup nearby,1,0.6333333333333333,0.0,0.2,0.24999999999999997
+109,10,3,Wouldn't buy again poor quality.,1,1,33,B005,F003,Beans,242,0.56,135.52,Debit/credit cards,Pickup nearby,1,0.7058823529411765,0.35,0.2,0.4117647058823529
+104,8,1,Very happy with the purchase.,4,1,34,B003,F003,Maize,46,2.91,133.86,Transfer,Pickup nearby,1,0.6111111111111112,1.0,0.8,0.8233333333333334
+105,4,2,The produce was fresh and well-packaged.,5,1,35,B007,F004,Cassava,289,2.59,748.51,Debit/credit cards,Pickup nearby,1,0.8214285714285714,0.65,1.0,0.8064285714285715
+106,9,3,Timely delivery and satisfactory quality.,4,1,36,B005,F002,Vegetables,358,2.24,801.9200000000001,Transfer,Pickup nearby,1,0.6333333333333333,0.5,0.8,0.63
+103,10,1,"Good quality, on-time delivery.",5,1,37,B009,F002,Yam,311,1.52,472.72,Cash,Direct delivery,0,0.7058823529411765,0.75,1.0,0.811764705882353
+109,3,2,"Did not deliver the products, very disappointed.",1,0,38,B007,F005,Maize,190,0.93,176.70000000000002,Cash,Direct delivery,0,0.90625,0.0,0.2,0.331875
+106,2,3,Best produce I've ever bought.,5,1,39,B002,F001,Tomatoes,104,0.89,92.56,Transfer,Pickup nearby,0,0.6470588235294118,1.0,1.0,0.8941176470588235
+102,5,1,"Did not deliver the products, very disappointed.",1,0,40,B004,F005,Yam,108,1.13,122.04,Transfer,Pickup nearby,0,0.8461538461538461,0.0,0.2,0.31384615384615383
+102,7,2,Quick response and good service.,4,1,41,B009,F004,Yam,197,1.87,368.39,Transfer,Direct delivery,1,0.5714285714285714,0.75,0.8,0.7114285714285714
+103,6,3,Very happy with the purchase.,5,1,42,B002,F004,Tomatoes,490,2.29,1122.1,Cash,Pickup nearby,0,0.5,1.0,1.0,0.85
+106,2,1,"Did not deliver the products, very disappointed.",1,0,43,B010,F004,Maize,125,2.15,268.75,Transfer,Pickup nearby,1,0.6470588235294118,0.0,0.2,0.25411764705882356
+109,10,2,"Did not deliver the products, very disappointed.",1,0,44,B009,F004,Tomatoes,200,1.2,240.0,Cash,Direct delivery,0,0.7058823529411765,0.0,0.2,0.2717647058823529
+107,2,3,"Did not deliver the products, very disappointed.",1,0,45,B010,F004,Beans,262,2.89,757.1800000000001,Debit/credit cards,Pickup nearby,1,0.6470588235294118,0.0,0.2,0.25411764705882356
+103,1,1,"Service was below average, not recommended.",1,0,46,B005,F003,Yam,478,2.34,1118.52,Cash,Direct delivery,1,0.5277777777777778,0.45,0.2,0.3983333333333333
+109,4,2,"Did not deliver the products, very disappointed.",1,0,47,B002,F002,Rice,425,1.89,803.25,Cash,Pickup nearby,0,0.8214285714285714,0.0,0.2,0.3064285714285714
+103,8,3,Mediocre quality.,3,1,48,B004,F004,Rice,480,2.03,974.4,Debit/credit cards,Direct delivery,0,0.6111111111111112,0.25,0.6,0.4633333333333334
+102,8,1,Quick response and good service.,4,1,49,B007,F001,Cassava,170,1.55,263.5,Cash,Direct delivery,0,0.6111111111111112,0.75,0.8,0.7233333333333334
+109,3,2,Quality exceeded my expectations.,5,1,50,B008,F001,Vegetables,265,1.12,296.8,Transfer,Direct delivery,0,0.90625,0.5,1.0,0.771875
+107,6,3,"Did not deliver the products, very disappointed.",1,0,51,B003,F001,Tomatoes,332,1.39,461.48,Transfer,Pickup nearby,1,0.5,0.0,0.2,0.21
+104,9,1,"Average quality, but delivery was quick.",3,1,52,B001,F001,Tomatoes,137,2.39,327.43,Cash,Direct delivery,0,0.6333333333333333,0.55,0.6,0.59
+101,10,2,Best produce I've ever bought.,5,1,53,B004,F003,Cassava,27,0.54,14.580000000000002,Transfer,Pickup nearby,0,0.7058823529411765,1.0,1.0,0.9117647058823529
+107,8,3,"Did not deliver the products, very disappointed.",1,0,54,B002,F001,Cassava,290,0.79,229.1,Cash,Pickup nearby,1,0.6111111111111112,0.0,0.2,0.24333333333333335
+107,2,1,Best produce I've ever bought.,5,1,55,B008,F004,Cassava,499,0.62,309.38,Transfer,Pickup nearby,0,0.6470588235294118,1.0,1.0,0.8941176470588235
+109,6,2,"Did not deliver the products, very disappointed.",1,0,56,B004,F005,Yam,232,0.6,139.2,Transfer,Pickup nearby,0,0.5,0.0,0.2,0.21
+107,7,3,"Did not deliver the products, very disappointed.",1,0,57,B002,F001,Beans,63,2.64,166.32000000000002,Cash,Direct delivery,0,0.5714285714285714,0.0,0.2,0.2314285714285714
+110,6,1,"Did not deliver the products, very disappointed.",1,0,58,B006,F003,Tomatoes,67,2.26,151.42,Transfer,Direct delivery,0,0.5,0.0,0.2,0.21
+102,1,2,"Service was below average, not recommended.",1,1,59,B006,F003,Yam,332,1.69,561.0799999999999,Cash,Pickup nearby,0,0.5277777777777778,0.45,0.2,0.3983333333333333
+104,6,3,Great quality produce and timely delivery.,5,1,60,B010,F001,Cassava,369,0.74,273.06,Transfer,Pickup nearby,1,0.5,1.0,1.0,0.85
+106,9,1,"Did not deliver the products, very disappointed.",1,0,61,B004,F005,Tomatoes,183,1.73,316.59,Transfer,Direct delivery,0,0.6333333333333333,0.0,0.2,0.24999999999999997
+110,8,2,"Did not deliver the products, very disappointed.",1,0,62,B006,F001,Yam,289,1.68,485.52,Debit/credit cards,Pickup nearby,0,0.6111111111111112,0.0,0.2,0.24333333333333335
+109,9,3,"Did not deliver the products, very disappointed.",1,0,63,B002,F003,Beans,123,0.93,114.39,Debit/credit cards,Direct delivery,0,0.6333333333333333,0.0,0.2,0.24999999999999997
+102,9,1,Timely delivery and satisfactory quality.,4,1,64,B010,F002,Yam,297,1.58,469.2600000000001,Cash,Pickup nearby,0,0.6333333333333333,0.5,0.8,0.63
+109,7,2,Great value for money.,5,1,65,B002,F004,Beans,440,1.5,660.0,Debit/credit cards,Pickup nearby,0,0.5714285714285714,1.0,1.0,0.8714285714285713
+101,2,3,"Did not deliver the products, very disappointed.",1,0,66,B010,F003,Cassava,351,2.04,716.04,Cash,Direct delivery,1,0.6470588235294118,0.0,0.2,0.25411764705882356
+110,10,1,"Did not deliver the products, very disappointed.",1,0,67,B004,F001,Beans,160,2.09,334.4,Debit/credit cards,Pickup nearby,0,0.7058823529411765,0.0,0.2,0.2717647058823529
+102,1,2,"Did not deliver the products, very disappointed.",1,0,68,B008,F004,Tomatoes,459,0.61,279.99,Transfer,Direct delivery,1,0.5277777777777778,0.0,0.2,0.21833333333333332
+107,9,3,"Service was below average, not recommended.",1,1,69,B007,F001,Cassava,136,1.44,195.84,Cash,Pickup nearby,1,0.6333333333333333,0.45,0.2,0.43
+103,8,1,Very happy with the purchase.,5,1,70,B009,F001,Tomatoes,164,2.06,337.84000000000003,Cash,Pickup nearby,0,0.6111111111111112,1.0,1.0,0.8833333333333333
+109,7,2,"Did not deliver the products, very disappointed.",1,0,71,B008,F002,Rice,499,1.76,878.24,Transfer,Pickup nearby,0,0.5714285714285714,0.0,0.2,0.2314285714285714
+104,2,3,Excellent service and good quality.,5,1,72,B005,F004,Maize,395,2.64,1042.8,Cash,Direct delivery,0,0.6470588235294118,1.0,1.0,0.8941176470588235
+109,10,1,"Did not deliver the products, very disappointed.",2,0,73,B002,F004,Beans,483,2.15,1038.45,Cash,Pickup nearby,0,0.7058823529411765,0.0,0.4,0.33176470588235296
+102,3,2,"Produce was spoiled, very disappointed.",1,1,74,B005,F002,Maize,282,0.91,256.62,Debit/credit cards,Pickup nearby,1,0.90625,0.0,0.2,0.331875
+109,1,3,"Service was below average, not recommended.",1,1,75,B008,F003,Maize,113,0.68,76.84,Cash,Pickup nearby,0,0.5277777777777778,0.45,0.2,0.3983333333333333
+104,4,1,Not satisfied with the quality.,1,1,76,B010,F001,Beans,426,2.11,898.8599999999999,Transfer,Pickup nearby,0,0.8214285714285714,0.35,0.2,0.4464285714285714
+105,8,2,"Did not deliver the products, very disappointed.",1,0,77,B009,F005,Cassava,402,0.57,229.14,Debit/credit cards,Direct delivery,0,0.6111111111111112,0.0,0.2,0.24333333333333335
+103,1,3,"Did not deliver the products, very disappointed.",1,0,78,B009,F001,Rice,308,1.96,603.68,Debit/credit cards,Direct delivery,0,0.5277777777777778,0.0,0.2,0.21833333333333332
+110,6,1,"Did not deliver the products, very disappointed.",1,0,79,B001,F001,Tomatoes,255,2.85,726.75,Transfer,Pickup nearby,0,0.5,0.0,0.2,0.21
+106,10,2,"Did not deliver the products, very disappointed.",1,0,80,B009,F003,Yam,185,1.94,358.9,Transfer,Direct delivery,0,0.7058823529411765,0.0,0.2,0.2717647058823529
+102,3,3,Great quality produce and timely delivery.,5,1,81,B007,F001,Tomatoes,48,1.47,70.56,Debit/credit cards,Pickup nearby,1,0.90625,1.0,1.0,0.9718749999999999
+108,2,1,"Did not deliver the products, very disappointed.",1,0,82,B009,F002,Yam,486,2.11,1025.46,Cash,Pickup nearby,1,0.6470588235294118,0.0,0.2,0.25411764705882356
+101,6,2,"Did not deliver the products, very disappointed.",1,0,83,B008,F002,Tomatoes,179,1.65,295.35,Debit/credit cards,Pickup nearby,0,0.5,0.0,0.2,0.21
+102,2,3,"Good quality, on-time delivery.",5,1,84,B001,F004,Beans,256,1.86,476.16,Transfer,Direct delivery,0,0.6470588235294118,0.75,1.0,0.7941176470588236
+104,7,1,"Did not deliver the products, very disappointed.",1,0,85,B008,F005,Rice,35,2.85,99.75,Debit/credit cards,Direct delivery,0,0.5714285714285714,0.0,0.2,0.2314285714285714
+110,1,2,"Did not deliver the products, very disappointed.",1,0,86,B008,F001,Yam,364,1.47,535.08,Transfer,Direct delivery,1,0.5277777777777778,0.0,0.2,0.21833333333333332
+110,9,3,Quick response and good service.,4,1,87,B003,F001,Vegetables,315,2.9,913.5,Debit/credit cards,Direct delivery,0,0.6333333333333333,0.75,0.8,0.73
+104,4,1,"Did not deliver the products, very disappointed.",1,0,88,B001,F003,Cassava,418,2.76,1153.6799999999998,Cash,Direct delivery,1,0.8214285714285714,0.0,0.2,0.3064285714285714
+110,10,2,Very happy with the purchase.,5,1,89,B008,F002,Tomatoes,417,0.99,412.83,Debit/credit cards,Direct delivery,0,0.7058823529411765,1.0,1.0,0.9117647058823529
+108,1,3,"Produce was spoiled, very disappointed.",2,1,90,B003,F005,Tomatoes,22,0.67,14.74,Debit/credit cards,Direct delivery,0,0.5277777777777778,0.0,0.4,0.2783333333333333
+103,9,1,"Did not deliver the products, very disappointed.",1,0,91,B003,F004,Yam,325,0.75,243.75,Transfer,Direct delivery,0,0.6333333333333333,0.0,0.2,0.24999999999999997
+106,9,2,"Service was below average, not recommended.",1,1,92,B001,F002,Cassava,400,0.55,220.00000000000003,Transfer,Direct delivery,0,0.6333333333333333,0.45,0.2,0.43
+102,3,3,"Average quality, but delivery was quick.",3,1,93,B005,F004,Cassava,322,0.74,238.28,Transfer,Pickup nearby,1,0.90625,0.55,0.6,0.671875
+108,2,1,"Fantastic experience, will buy again.",5,1,94,B010,F003,Beans,45,2.21,99.45,Debit/credit cards,Direct delivery,1,0.6470588235294118,0.65,1.0,0.7541176470588236
+105,1,2,"Did not deliver the products, very disappointed.",1,0,95,B007,F003,Vegetables,182,0.68,123.76,Cash,Direct delivery,0,0.5277777777777778,0.0,0.2,0.21833333333333332
+110,2,3,"Produce was spoiled, very disappointed.",1,1,96,B010,F001,Beans,29,1.3,37.7,Transfer,Direct delivery,0,0.6470588235294118,0.0,0.2,0.25411764705882356
+103,3,1,Best produce I've ever bought.,5,1,97,B009,F005,Beans,330,2.61,861.3,Transfer,Direct delivery,1,0.90625,1.0,1.0,0.9718749999999999
+110,7,2,"Did not deliver the products, very disappointed.",1,0,98,B007,F004,Beans,273,0.56,152.88000000000002,Debit/credit cards,Direct delivery,1,0.5714285714285714,0.0,0.2,0.2314285714285714
+102,8,3,"Did not deliver the products, very disappointed.",1,0,99,B009,F002,Beans,409,2.54,1038.86,Transfer,Direct delivery,1,0.6111111111111112,0.0,0.2,0.24333333333333335
+106,1,1,"Did not deliver the products, very disappointed.",1,0,100,B008,F003,Beans,151,1.2,181.2,Cash,Direct delivery,1,0.5277777777777778,0.0,0.2,0.21833333333333332
